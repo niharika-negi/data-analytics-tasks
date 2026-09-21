@@ -1,2 +1,1 @@
-# data-analytics-tasks
-Practical Data Analytics tasks using Excel, Statistics and MySQL and other tools used in data analytics
+# data-analytics-tasksPractical Data Analytics tasks using Excel and MySQL as part of my MCA learning journey.
